@@ -3,13 +3,12 @@ import styled from "styled-components";
 export const Div = styled.div`
 margin: 0;
 width: 360px;
-border: 1px solid gray;
-border-radius: 8px;
+border: 1px solid blue;
 padding: 20px;
 `;
 
 export const Label = styled.label`
-font-size: 20px;
+font-size: 24px;
 `;
 
 export const FormInput = styled.input`

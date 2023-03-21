@@ -1,16 +1,16 @@
 import styled from "styled-components";
 
-export const Section = styled.div`
-
+export const Div = styled.div`
+width: 400px;
 margin: 30px;
 font-size: 24px;
-color: #010101;
+color: black;
 `
 
-export const Title = styled.h1`
-margin: 20px 0px;
+export const H1 = styled.h1`
+margin: 20px ;
 `
-export const Text = styled.p`
-color: red;
+export const P = styled.p`
 margin: 30px;
+color: red;
 `

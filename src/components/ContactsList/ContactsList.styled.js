@@ -4,8 +4,7 @@ export const ListUl = styled.ul`
 width: 360px;
 
 padding: 8px;
-border: 1px solid gray;
-border-radius: 8px;
+border: 1px solid blue;
 padding: 20px;
 `
 export const ListLi = styled.li`

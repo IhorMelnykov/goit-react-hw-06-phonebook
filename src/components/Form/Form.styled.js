@@ -4,8 +4,7 @@ import { Form, Field, ErrorMessage } from 'formik';
 export const FormStyled = styled(Form)`
 margin: 0;
 width: 360px;
-border: 1px solid gray;
-border-radius: 8px;
+border: 1px solid blue;
 padding: 20px;
 `;
 
@@ -27,9 +26,9 @@ export const Button = styled.button`
 padding: 5px;
 margin-top: 30px;
 border: 1px solid black;
-border-radius: 5px;
+border-radius: 4px;
 cursor: pointer;
-background-color: lightgrey;
+background-color: lightblue;
 font-size: 18px;
 `;
 
